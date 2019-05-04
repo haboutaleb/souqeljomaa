@@ -1,0 +1,4 @@
+at the first please get into file .env and use mysql and make database name :souqeljomla and create this data base in mysql 
+and use this commend 
+1 : $php artisan migrate
+2 : $php artsin serve
